@@ -1,0 +1,75 @@
+.h1{
+    font-weight:100;
+    font-size:250%;
+    
+}
+
+.n1{
+    font-weight:30;
+    font-size:200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.m1{
+    font-weight:30;
+    font-size:200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.m2{
+    font-weight:30;
+    font-size:200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.m3{
+    font-weight:30;
+    font-size:200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.m4{
+    font-weight:30;
+    font-size:200%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.samy{
+
+   border-top-style: solid!important;
+   border-top-width: 20px!important;
+   border-top-color: red!important;
+   border-top-left-radius: 30px!important;
+   border-top-right-radius: 30px!important;
+   
+}
+
+.bala{
+
+    border-top-style: solid!important;
+    border-top-width: 20px!important;
+    border-top-color: blue!important;
+    border-top-left-radius: 30px!important;
+    border-top-right-radius: 30px!important;
+    
+ }
+
+ .naveen{
+
+    border-top-style: solid!important;
+    border-top-width: 20px!important;
+    border-top-color: green!important;
+    border-top-left-radius: 30px!important;
+    border-top-right-radius: 30px!important;
+    
+ }
+
+ .nivas{
+
+    border-top-style: solid!important;
+    border-top-width: 20px!important;
+    border-top-color: yellow!important;
+    border-top-left-radius: 30px!important;
+    border-top-right-radius: 30px!important;
+    
+ }

@@ -1,0 +1,50 @@
+.p1{
+    text-align: center;
+}
+
+.n1{
+    background-color:blue;
+    height:20%;
+    width:20%;
+    margin-left:39%;
+    /* text-align:center; */
+    padding:1%;
+    color:white;
+    font-weight:bold;
+    
+
+}
+
+.n2{
+    background-color:green;
+    height:20%;
+    width:20%;
+    margin-left:39%;
+    /* text-align:center; */
+    padding:1%;
+    color:white;
+    font-weight:bold;
+    
+}
+
+.n3{
+    background-color:yellowgreen;
+    height:20%;
+    width:20%;
+    margin-left:39%;
+    /* text-align:center; */
+    padding:1%;
+    color:white;
+    font-weight:bold;
+}
+
+.n4{
+    background-color:red;
+    height:20%;
+    width:20%;
+    margin-left:39%;
+    /* text-align:center; */
+    padding:1%;
+    color:white;
+    font-weight:bold;
+}
